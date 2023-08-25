@@ -1,0 +1,16 @@
+
+
+body{
+  background-color: #282c34;
+}
+
+.App{
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.app-heading{
+  color: #FFF;
+}
+

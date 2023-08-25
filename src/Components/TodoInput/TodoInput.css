@@ -1,0 +1,15 @@
+.input-box{
+    padding: 17px 30px;
+    border-radius: 10px;
+    border-color: none;
+}
+
+.btn{
+    border-radius: 20px;
+    padding: 17px 50px;
+    background-color: #04AA6D;
+    margin-left: 10px;
+    border-color: none;
+    color: #fff;
+    border: 1px solid #000;
+}
